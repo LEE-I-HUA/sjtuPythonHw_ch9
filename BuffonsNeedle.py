@@ -17,6 +17,5 @@ def count_pi(n):
 def main():
     n = int(input("darts number:"))
     print ("pi is around", count_pi(n),"in this test.")
-
 main()
 input()
