@@ -1,3 +1,4 @@
+# LEE I HUA
 # 正方形邊長=2;center(0.0); h = 投針正中圓範圍內的數目 ; n = 投擲針數 ; pi = 4*h/n
 from math import sqrt
 import random
